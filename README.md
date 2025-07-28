@@ -1,6 +1,6 @@
 # Top 20 HTML Tags Every Web Developer Should Know
 
-Read the full article [here]().
+Read the full article [here](https://www.djamware.com/post/6886fef0e1113a710d231dbf/top-20-html-tags-every-web-developer-should-know).
 
 HTML is the foundation of every website. Whether you're a beginner or a seasoned developer, mastering these core tags will help you build well-structured, semantic, and accessible web pages.
 
